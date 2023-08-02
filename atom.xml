@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sai</title>
+  
+  
+  <link href="https://hydro-sai.github.io/master/atom.xml" rel="self"/>
+  
+  <link href="https://hydro-sai.github.io/master/"/>
+  <updated>2023-08-01T09:51:49.794Z</updated>
+  <id>https://hydro-sai.github.io/master/</id>
+  
+  <author>
+    <name>赛宝儿</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是赛宝儿的第一篇文章</title>
+    <link href="https://hydro-sai.github.io/master/2023/07/26/%E8%BF%99%E6%98%AF%E8%B5%9B%E5%AE%9D%E5%84%BF%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://hydro-sai.github.io/master/2023/07/26/%E8%BF%99%E6%98%AF%E8%B5%9B%E5%AE%9D%E5%84%BF%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-07-26T02:58:36.000Z</published>
+    <updated>2023-08-01T09:51:49.794Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello！大家好呀，我是赛宝儿😁<br>这是我历经 emmm，大概有 24h（也就是 1 天，<s>其实是好几天的每天 1 到 2h</s>）自己完成的一个<mark>个人的博客网站</mark>，想想就觉得是一件超级酷的事情嘞 (〇*&gt;∀&lt;) ゞ★☆<br>由于是第一次写博客，markdown 语法也是初学学的一般，请大家见谅。<br>第一篇文章嘛，简单水一下看看效果 (o≖◡≖)。<br>很感谢大家可以光临我的个人博客，以后或许会不定期更新，在这里发布一些<mark>学习心得</mark>或者是一些<mark>乱七八糟的小牢骚</mark>吧。<br>喜欢和有趣的人儿交朋友🥰！<br>那么，就先写到这里好啦（事实上也是因为好像肚子里也吐不出来什么话了🤫）。<br>朋友们再见👋，耽误大家时间啦。<br><mark>喜欢可以关注我或者留言哦</mark>😎</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello！大家好呀，我是赛宝儿😁&lt;br&gt;
+这是我历经 emmm，大概有 24h（也就是 1 天，&lt;s&gt;其实是好几天的每天 1 到 2h&lt;/s&gt;）自己完成的一个&lt;mark&gt;个人的博客网站&lt;/mark&gt;，想想就觉得是一件超级酷的事情嘞 (〇*&amp;gt;∀&amp;lt;) ゞ★☆&lt;b</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hydro-sai.github.io/master/2023/07/26/hello-world/"/>
+    <id>https://hydro-sai.github.io/master/2023/07/26/hello-world/</id>
+    <published>2023-07-26T02:44:02.279Z</published>
+    <updated>2023-07-26T02:42:21.324Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
